@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edmari689/edmaricallangan/static/css/main.e918353f.css",
+    "main.js": "/edmari689/edmaricallangan/static/js/main.fb978e79.js",
+    "static/media/headerBack.jpg": "/edmari689/edmaricallangan/static/media/headerBack.43498f96026f27733afd.jpg",
+    "static/media/elsa.jpg": "/edmari689/edmaricallangan/static/media/elsa.260dc578c8142b13a147.jpg",
+    "index.html": "/edmari689/edmaricallangan/index.html",
+    "main.e918353f.css.map": "/edmari689/edmaricallangan/static/css/main.e918353f.css.map",
+    "main.fb978e79.js.map": "/edmari689/edmaricallangan/static/js/main.fb978e79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e918353f.css",
+    "static/js/main.fb978e79.js"
+  ]
+}
