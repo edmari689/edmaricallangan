@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e918353f.css",
-    "main.js": "/static/js/main.9b5fdb13.js",
-    "static/media/headerBack.jpg": "/static/media/headerBack.43498f96026f27733afd.jpg",
-    "static/media/elsa.jpg": "/static/media/elsa.260dc578c8142b13a147.jpg",
-    "index.html": "/index.html",
-    "main.e918353f.css.map": "/static/css/main.e918353f.css.map",
-    "main.9b5fdb13.js.map": "/static/js/main.9b5fdb13.js.map"
+    "main.css": "/edmaricallangan/static/css/main.e918353f.css",
+    "main.js": "/edmaricallangan/static/js/main.b2442e1e.js",
+    "static/media/headerBack.jpg": "/edmaricallangan/static/media/headerBack.43498f96026f27733afd.jpg",
+    "static/media/elsa.jpg": "/edmaricallangan/static/media/elsa.260dc578c8142b13a147.jpg",
+    "index.html": "/edmaricallangan/index.html",
+    "main.e918353f.css.map": "/edmaricallangan/static/css/main.e918353f.css.map",
+    "main.b2442e1e.js.map": "/edmaricallangan/static/js/main.b2442e1e.js.map"
   },
   "entrypoints": [
     "static/css/main.e918353f.css",
-    "static/js/main.9b5fdb13.js"
+    "static/js/main.b2442e1e.js"
   ]
 }
