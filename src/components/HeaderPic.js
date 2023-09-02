@@ -1,7 +1,7 @@
 import React from "react"; // in case that we don't need to use <div>
 import IMAGES from "../images/PicIndex";
 
-export default function Header () {
+export default function HeaderPic () {
     return (
         <div>
             <picture>

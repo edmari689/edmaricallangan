@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './looks/pageContent.css';
+//import './looks/demo.css';
+import './looks/navbar.css'; //https://blog.logrocket.com/how-create-multilevel-dropdown-menu-react/
 import App from './App';
-import './looks/styles.css';
-import './looks/navilooks.css';
 import { BrowserRouter  } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

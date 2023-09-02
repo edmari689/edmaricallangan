@@ -1,6 +1,6 @@
 const IMAGES = {
     topHeader: require('./headerBack.jpg'),
-    elsa: require('./elsa.jpg'),
+    homeLogo: require('./homeLogo.png'),
 }
 
 export default IMAGES;
