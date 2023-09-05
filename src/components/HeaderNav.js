@@ -8,7 +8,7 @@ const HeaderNav = () => {
         <div className="nav-area">
           <Link to="/" className="logo">
             <picture>
-                <img 
+                <img className="icon-logo"
                 src={IMAGES.homeLogo} // alternative 1st way
                 alt="Home Logo" />
             </picture>
@@ -19,4 +19,4 @@ const HeaderNav = () => {
     );
   };
   
-  export default HeaderNav;
+  export default HeaderNav; 

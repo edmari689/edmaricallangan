@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+//stylesheets
 import './looks/pageContent.css';
 //import './looks/demo.css';
 import './looks/navbar.css'; //https://blog.logrocket.com/how-create-multilevel-dropdown-menu-react/
+import './looks/photostyle.css';
+
 import App from './App';
 import { BrowserRouter  } from 'react-router-dom';
 

@@ -9,11 +9,11 @@ export const pageItems = [
       submenu: [
         {
           title: 'About My Background',
-          url: 'about-life',
+          url: 'aboutme',
         },
         {
           title: 'About This Site',
-          url: 'about-site',
+          url: 'aboutsite',
         },
       ],
     },

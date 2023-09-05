@@ -5,7 +5,8 @@ import Footer from './components/Footer';
 
 import Home from './pages/Home';
 import Contact from './pages/Contact';
-import About from './pages/About';
+import AboutMe from './pages/AboutMe';
+import AboutSite from './pages/AboutSite'; 
 import Page404 from './pages/Page404';
 
 import { Route, Routes } from "react-router-dom";
@@ -21,7 +22,8 @@ function App() {
           <Route path='/' element={<Layout />}>
             <Route index element={<Home />} />
             <Route path='/contact' element={<Contact />} />
-            <Route path='/about' element={<About />} />
+            <Route path='/aboutme' element={<AboutMe />} />
+            <Route path='/aboutsite' element={<AboutSite />} />
             <Route path="*" element={<Page404 />} />
           </Route>
         </Routes>
