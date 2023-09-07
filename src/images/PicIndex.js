@@ -1,5 +1,5 @@
 const IMAGES = {
-    topHeader: require('./headerBack.jpg'),
+    topHeader: require('./headerPic.jpg'),
     homeLogo: require('./homeLogo.png'),
     homeFireworks: require('./home-fireworks.jpg'),
 

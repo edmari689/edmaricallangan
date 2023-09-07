@@ -37,4 +37,19 @@ img.icon-logo:hover{
     box-shadow: 0 0 2px 1px rgba(177, 199, 8, 0.5);
 }
 
+img.site-note{
+    border-radius: 5px;
+    height: auto;
+    max-width: 100%;
+    width: 100px;
+}
+
+img.header-style{
+    border-radius: 0px;
+    height: 400px;
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+}
+
 /* */
