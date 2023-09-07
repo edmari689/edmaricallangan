@@ -23,15 +23,15 @@ export const pageItems = [
       submenu: [
         {
           title: 'Teaching Demo',
-          url: 'teaching-demo',
+          url: 'teachingdemo',
         },
         {
           title: 'IT Samples',
           url: 'it-samples',
           submenu: [
           {
-            title: 'React Works',
-            url: 'react-works',
+            title: 'Web Works',
+            url: 'web-works',
           },
           {
             title: 'Other IT Works',

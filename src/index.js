@@ -5,6 +5,8 @@ import './looks/pageContent.css';
 //import './looks/demo.css';
 import './looks/navbar.css'; //https://blog.logrocket.com/how-create-multilevel-dropdown-menu-react/
 import './looks/photostyle.css';
+//import 'bootstrap/dist/css/bootstrap.min.css'; //https://react-bootstrap.github.io/docs/getting-started/introduction
+
 
 import App from './App';
 import { BrowserRouter  } from 'react-router-dom';
