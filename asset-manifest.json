@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/edmaricallangan/static/css/main.e918353f.css",
-    "main.js": "/edmaricallangan/static/js/main.b2442e1e.js",
-    "static/media/headerBack.jpg": "/edmaricallangan/static/media/headerBack.43498f96026f27733afd.jpg",
-    "static/media/elsa.jpg": "/edmaricallangan/static/media/elsa.260dc578c8142b13a147.jpg",
-    "index.html": "/edmaricallangan/index.html",
-    "main.e918353f.css.map": "/edmaricallangan/static/css/main.e918353f.css.map",
-    "main.b2442e1e.js.map": "/edmaricallangan/static/js/main.b2442e1e.js.map"
+    "main.css": "/static/css/main.cd042ea0.css",
+    "main.js": "/static/js/main.e2cddcea.js",
+    "static/media/home-fireworks.jpg": "/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
+    "static/media/travel-pic.jpg": "/static/media/travel-pic.d740ff52f744472f0479.jpg",
+    "static/media/teaching-sample.jpg": "/static/media/teaching-sample.46c59c45909201405703.jpg",
+    "static/media/casual-pic.jpg": "/static/media/casual-pic.a9279462feb619bfa7b5.jpg",
+    "static/media/work-pic.jpg": "/static/media/work-pic.68a36477a76e9a129738.jpg",
+    "static/media/headerPic.jpg": "/static/media/headerPic.a5a4920d78061be65047.jpg",
+    "static/media/code-sample.jpg": "/static/media/code-sample.334660b4f2dc02d22b27.jpg",
+    "static/media/note-sign.png": "/static/media/note-sign.ba111595e19d744439b6.png",
+    "index.html": "/index.html",
+    "main.cd042ea0.css.map": "/static/css/main.cd042ea0.css.map",
+    "main.e2cddcea.js.map": "/static/js/main.e2cddcea.js.map"
   },
   "entrypoints": [
-    "static/css/main.e918353f.css",
-    "static/js/main.b2442e1e.js"
+    "static/css/main.cd042ea0.css",
+    "static/js/main.e2cddcea.js"
   ]
 }
