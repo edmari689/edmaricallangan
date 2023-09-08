@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd042ea0.css",
-    "main.js": "/static/js/main.e2cddcea.js",
-    "static/media/home-fireworks.jpg": "/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
-    "static/media/travel-pic.jpg": "/static/media/travel-pic.d740ff52f744472f0479.jpg",
-    "static/media/teaching-sample.jpg": "/static/media/teaching-sample.46c59c45909201405703.jpg",
-    "static/media/casual-pic.jpg": "/static/media/casual-pic.a9279462feb619bfa7b5.jpg",
-    "static/media/work-pic.jpg": "/static/media/work-pic.68a36477a76e9a129738.jpg",
-    "static/media/headerPic.jpg": "/static/media/headerPic.a5a4920d78061be65047.jpg",
-    "static/media/code-sample.jpg": "/static/media/code-sample.334660b4f2dc02d22b27.jpg",
-    "static/media/note-sign.png": "/static/media/note-sign.ba111595e19d744439b6.png",
-    "index.html": "/index.html",
-    "main.cd042ea0.css.map": "/static/css/main.cd042ea0.css.map",
-    "main.e2cddcea.js.map": "/static/js/main.e2cddcea.js.map"
+    "main.css": "/edmaricallangan/static/css/main.cd042ea0.css",
+    "main.js": "/edmaricallangan/static/js/main.2d6c829f.js",
+    "static/media/home-fireworks.jpg": "/edmaricallangan/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
+    "static/media/travel-pic.jpg": "/edmaricallangan/static/media/travel-pic.d740ff52f744472f0479.jpg",
+    "static/media/teaching-sample.jpg": "/edmaricallangan/static/media/teaching-sample.46c59c45909201405703.jpg",
+    "static/media/casual-pic.jpg": "/edmaricallangan/static/media/casual-pic.a9279462feb619bfa7b5.jpg",
+    "static/media/work-pic.jpg": "/edmaricallangan/static/media/work-pic.68a36477a76e9a129738.jpg",
+    "static/media/headerPic.jpg": "/edmaricallangan/static/media/headerPic.a5a4920d78061be65047.jpg",
+    "static/media/code-sample.jpg": "/edmaricallangan/static/media/code-sample.334660b4f2dc02d22b27.jpg",
+    "static/media/note-sign.png": "/edmaricallangan/static/media/note-sign.ba111595e19d744439b6.png",
+    "index.html": "/edmaricallangan/index.html",
+    "main.cd042ea0.css.map": "/edmaricallangan/static/css/main.cd042ea0.css.map",
+    "main.2d6c829f.js.map": "/edmaricallangan/static/js/main.2d6c829f.js.map"
   },
   "entrypoints": [
     "static/css/main.cd042ea0.css",
-    "static/js/main.e2cddcea.js"
+    "static/js/main.2d6c829f.js"
   ]
 }
