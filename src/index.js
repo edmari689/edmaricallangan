@@ -11,10 +11,13 @@ import './looks/photostyle.css';
 import App from './App';
 import { BrowserRouter  } from 'react-router-dom';
 
+// IMPORTANT: Update and refine BrowserRouter with basename to land homepage instead of error page
+// https://github.com/gitname/react-gh-pages/issues/3
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
      <App />
     </BrowserRouter>
   </React.StrictMode>
