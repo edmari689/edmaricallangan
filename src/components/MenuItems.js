@@ -23,10 +23,10 @@ const MenuItems = ({ items, depthLevel }) => {
    }, [dropdown]);
   
   const onMouseEnter = () => {
-    window.innerWidth > 960 && setDropdown(true);
+    window.innerWidth > 768 && setDropdown(true);
    };
   const onMouseLeave = () => {
-    window.innerWidth > 960 && setDropdown(false);
+    window.innerWidth > 768 && setDropdown(false);
    };
   const closeDropdown = () => {
     dropdown && setDropdown(false);
@@ -48,14 +48,14 @@ const MenuItems = ({ items, depthLevel }) => {
           aria-expanded={dropdown ? "true" : "false"}
           onClick={() => setDropdown((prev) => !prev)}
           >
-            {window.innerWidth < 960 && depthLevel === 0 ? (
+            {window.innerWidth < 768 && depthLevel === 0 ? (
              items.title
              ) : (
               <Link to={items.url}>{items.title}</Link>
             )}
             {depthLevel > 0 &&
-            window.innerWidth < 960 ? null : depthLevel > 0 &&
-              window.innerWidth > 960 ? (
+            window.innerWidth < 768 ? null : depthLevel > 0 &&
+              window.innerWidth > 768 ? (
             <span>&raquo;</span> 
             ) : (
             <span className="arrow" />

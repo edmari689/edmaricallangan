@@ -1,4 +1,4 @@
-import DemoNavbar from "./Navbar";
+import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
 import IMAGES from "../images/PicIndex";
 
@@ -13,7 +13,7 @@ const HeaderNav = () => {
                 alt="Home Logo" />
             </picture>
           </Link>
-          <DemoNavbar />
+          <Navbar />
         </div>
       </header>
     );
