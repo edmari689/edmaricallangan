@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edmaricallangan/static/css/main.cd042ea0.css",
-    "main.js": "/edmaricallangan/static/js/main.2d6c829f.js",
+    "main.css": "/edmaricallangan/static/css/main.21ff001b.css",
+    "main.js": "/edmaricallangan/static/js/main.aa6dbe76.js",
     "static/media/home-fireworks.jpg": "/edmaricallangan/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
     "static/media/travel-pic.jpg": "/edmaricallangan/static/media/travel-pic.d740ff52f744472f0479.jpg",
     "static/media/teaching-sample.jpg": "/edmaricallangan/static/media/teaching-sample.46c59c45909201405703.jpg",
@@ -11,11 +11,11 @@
     "static/media/code-sample.jpg": "/edmaricallangan/static/media/code-sample.334660b4f2dc02d22b27.jpg",
     "static/media/note-sign.png": "/edmaricallangan/static/media/note-sign.ba111595e19d744439b6.png",
     "index.html": "/edmaricallangan/index.html",
-    "main.cd042ea0.css.map": "/edmaricallangan/static/css/main.cd042ea0.css.map",
-    "main.2d6c829f.js.map": "/edmaricallangan/static/js/main.2d6c829f.js.map"
+    "main.21ff001b.css.map": "/edmaricallangan/static/css/main.21ff001b.css.map",
+    "main.aa6dbe76.js.map": "/edmaricallangan/static/js/main.aa6dbe76.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd042ea0.css",
-    "static/js/main.2d6c829f.js"
+    "static/css/main.21ff001b.css",
+    "static/js/main.aa6dbe76.js"
   ]
 }
