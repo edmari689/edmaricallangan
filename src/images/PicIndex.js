@@ -10,6 +10,9 @@ const IMAGES = {
     workPic: require('./work-pic.jpg'),
     casualPic: require('./casual-pic.jpg'),
     travelPic: require('./travel-pic.jpg'),
+
+    linkedinIcon: require('./linkedin-icon.png'),
+    facebookIcon: require('./facebook-icon.png'),
 }
 
 export default IMAGES;

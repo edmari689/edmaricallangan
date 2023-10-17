@@ -12,6 +12,13 @@ img.icon-logo{
     }
   }
 
+  img.social-media-logo{
+    border-radius: 5px;
+    height: 70%;
+    max-width: 100%;
+    width: 40px;
+}
+
 img.home-firepic, img.site-teach, img.site-code, img.work-pic,
 img.casual-pic, img.travel-pic{
     border-radius: 5px;
