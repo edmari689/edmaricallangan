@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edmaricallangan/static/css/main.21ff001b.css",
-    "main.js": "/edmaricallangan/static/js/main.aa6dbe76.js",
+    "main.css": "/edmaricallangan/static/css/main.5aa8d7ff.css",
+    "main.js": "/edmaricallangan/static/js/main.4be7dd4a.js",
     "static/media/home-fireworks.jpg": "/edmaricallangan/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
     "static/media/travel-pic.jpg": "/edmaricallangan/static/media/travel-pic.d740ff52f744472f0479.jpg",
     "static/media/teaching-sample.jpg": "/edmaricallangan/static/media/teaching-sample.46c59c45909201405703.jpg",
@@ -9,13 +9,15 @@
     "static/media/work-pic.jpg": "/edmaricallangan/static/media/work-pic.68a36477a76e9a129738.jpg",
     "static/media/headerPic.jpg": "/edmaricallangan/static/media/headerPic.a5a4920d78061be65047.jpg",
     "static/media/code-sample.jpg": "/edmaricallangan/static/media/code-sample.334660b4f2dc02d22b27.jpg",
+    "static/media/linkedin-icon.png": "/edmaricallangan/static/media/linkedin-icon.6ac77341c7a1f1743ba6.png",
+    "static/media/facebook-icon.png": "/edmaricallangan/static/media/facebook-icon.f25335b463a12545be9b.png",
     "static/media/note-sign.png": "/edmaricallangan/static/media/note-sign.ba111595e19d744439b6.png",
     "index.html": "/edmaricallangan/index.html",
-    "main.21ff001b.css.map": "/edmaricallangan/static/css/main.21ff001b.css.map",
-    "main.aa6dbe76.js.map": "/edmaricallangan/static/js/main.aa6dbe76.js.map"
+    "main.5aa8d7ff.css.map": "/edmaricallangan/static/css/main.5aa8d7ff.css.map",
+    "main.4be7dd4a.js.map": "/edmaricallangan/static/js/main.4be7dd4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.21ff001b.css",
-    "static/js/main.aa6dbe76.js"
+    "static/css/main.5aa8d7ff.css",
+    "static/js/main.4be7dd4a.js"
   ]
 }
