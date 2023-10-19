@@ -4,6 +4,9 @@ import IMAGES from "../images/PicIndex";
 export default function AboutSite () {
     return (
         <div>
+            <h2>艱難汝を玉にす</h2>
+            <h3>Adversity makes a man wise</h3>
+            <br />
             <p>
                 This site includes the profile background of Edmari Callangan 
                 with professional experiences and work showcases.

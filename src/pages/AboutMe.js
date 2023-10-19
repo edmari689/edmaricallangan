@@ -57,6 +57,8 @@ export default function AboutMe () {
                 and shooting genres.
             </p>
             <br />
+            <h2>案ずるより産むが易し </h2>
+            <h3>It's easier to give birth than to think about it</h3>
         </div>
     );
 }

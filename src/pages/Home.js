@@ -16,15 +16,6 @@ function Hello (){
                 <br />
                 For his demonstrations, please check at work demo section with basic showcases.
             </p>
-            <br />
-            <p>
-                艱難汝を玉にす
-                Adversity makes a man wise
-                <br />
-                案ずるより産むが易し 
-                It's easier to give birth than to think about it
-                
-            </p>
         </div>
     );
 }
