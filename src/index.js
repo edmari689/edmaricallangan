@@ -7,6 +7,8 @@ import './looks/navbar.css'; //https://blog.logrocket.com/how-create-multilevel-
 import './looks/photostyle.css';
 //import 'bootstrap/dist/css/bootstrap.min.css'; //https://react-bootstrap.github.io/docs/getting-started/introduction
 
+import './looks/soundplayer.css';
+import './looks/playerprogressbar.css';
 
 import App from './App';
 import { BrowserRouter  } from 'react-router-dom';

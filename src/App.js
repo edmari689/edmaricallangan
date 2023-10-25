@@ -9,6 +9,7 @@ import Contact from './pages/Contact';
 import AboutMe from './pages/AboutMe';
 import AboutSite from './pages/AboutSite'; 
 import TeachingDemo from './pages/TeachingDemo';
+import SoundPage from './pages/SoundPage';
 
 import { Route, Routes } from "react-router-dom";
 //from Switch to Routes ok
@@ -26,6 +27,7 @@ function App() {
             <Route path='/aboutme' element={<AboutMe />} />
             <Route path='/aboutsite' element={<AboutSite />} />
             <Route path='/teachingdemo' element={<TeachingDemo />} />
+            <Route path='/soundpage' element={<SoundPage />} />
             <Route path="*" element={<Page404 />} />
           </Route>
         </Routes>

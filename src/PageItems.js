@@ -34,16 +34,16 @@ export const pageItems = [
             url: 'web-works',
           },
           {
-            title: 'Other IT Works',
+            title: 'Other Works',
             url: 'it-sub',
             submenu: [
               {
-                title: 'Unreal',
-                url: 'unreal',
+                title: 'Sound Works',
+                url: 'soundpage',
               },
               {
-                title: 'Audacity',
-                url: 'audacity',
+                title: 'Unreal',
+                url: 'unreal',
               },
             ],
           },
