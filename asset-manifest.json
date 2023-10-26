@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/edmaricallangan/static/css/main.d216421c.css",
-    "main.js": "/edmaricallangan/static/js/main.9a3e6b28.js",
+    "main.css": "/edmaricallangan/static/css/main.8cf93a5f.css",
+    "main.js": "/edmaricallangan/static/js/main.83b0d627.js",
+    "static/media/sound1.wav": "/edmaricallangan/static/media/sound1.987b3fdf2362f8db0601.wav",
+    "static/media/NatureTalk-Preview.jpg": "/edmaricallangan/static/media/NatureTalk-Preview.bad248585b6dd4170297.jpg",
+    "static/media/NatureTalks.mp3": "/edmaricallangan/static/media/NatureTalks.d42937ef781cb215eb3b.mp3",
     "static/media/home-fireworks.jpg": "/edmaricallangan/static/media/home-fireworks.f9b1f0702b9aafe8035f.jpg",
     "static/media/travel-pic.jpg": "/edmaricallangan/static/media/travel-pic.d740ff52f744472f0479.jpg",
     "static/media/teaching-sample.jpg": "/edmaricallangan/static/media/teaching-sample.46c59c45909201405703.jpg",
@@ -10,14 +13,15 @@
     "static/media/headerPic.jpg": "/edmaricallangan/static/media/headerPic.a5a4920d78061be65047.jpg",
     "static/media/code-sample.jpg": "/edmaricallangan/static/media/code-sample.334660b4f2dc02d22b27.jpg",
     "static/media/linkedin-icon.png": "/edmaricallangan/static/media/linkedin-icon.6ac77341c7a1f1743ba6.png",
+    "static/media/1-preview.png": "/edmaricallangan/static/media/1-preview.44996cd1830b45aede76.png",
     "static/media/facebook-icon.png": "/edmaricallangan/static/media/facebook-icon.f25335b463a12545be9b.png",
     "static/media/note-sign.png": "/edmaricallangan/static/media/note-sign.ba111595e19d744439b6.png",
     "index.html": "/edmaricallangan/index.html",
-    "main.d216421c.css.map": "/edmaricallangan/static/css/main.d216421c.css.map",
-    "main.9a3e6b28.js.map": "/edmaricallangan/static/js/main.9a3e6b28.js.map"
+    "main.8cf93a5f.css.map": "/edmaricallangan/static/css/main.8cf93a5f.css.map",
+    "main.83b0d627.js.map": "/edmaricallangan/static/js/main.83b0d627.js.map"
   },
   "entrypoints": [
-    "static/css/main.d216421c.css",
-    "static/js/main.9a3e6b28.js"
+    "static/css/main.8cf93a5f.css",
+    "static/js/main.83b0d627.js"
   ]
 }
