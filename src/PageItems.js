@@ -32,6 +32,12 @@ export const pageItems = [
           {
             title: 'Web Works',
             url: 'web-works',
+            submenu: [
+              {
+                title: ' Basic Form Validation',
+                url: 'formvalidate',
+              }
+            ],
           },
           {
             title: 'Other Works',
