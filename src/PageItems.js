@@ -30,28 +30,22 @@ export const pageItems = [
           url: 'it-samples',
           submenu: [
           {
-            title: 'Web Works',
-            url: 'web-works',
-            submenu: [
-              {
-                title: ' Basic Form Validation',
-                url: 'formvalidate',
-              }
-            ],
+            title: 'Basic Form Validation',
+            url: 'formvalidate',
+          },
+        ],
+      },
+      {
+        title: 'Other Samples',
+        url: 'othersample',
+        submenu: [
+          {
+            title: 'Sound Works',
+            url: 'soundpage',
           },
           {
-            title: 'Other Works',
-            url: 'it-sub',
-            submenu: [
-              {
-                title: 'Sound Works',
-                url: 'soundpage',
-              },
-              {
-                title: 'Unreal',
-                url: 'unreal',
-              },
-            ],
+            title: 'Unreal',
+            url: 'unreal',
           },
         ],
       },

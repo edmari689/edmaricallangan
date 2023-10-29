@@ -11,6 +11,11 @@ import AboutSite from './pages/AboutSite';
 import TeachingDemo from './pages/TeachingDemo';
 import SoundPage from './pages/SoundPage';
 
+import About from './pages/About';
+import WorkDemo from './pages/Work-Demo';
+import ItSamples from './pages/It-Samples';
+import OtherSample from './pages/OtherSample';
+
 import FormValidate from './pages/FormValidate';
 import { Route, Routes } from "react-router-dom";
 //from Switch to Routes ok
@@ -30,6 +35,10 @@ function App() {
             <Route path='/teachingdemo' element={<TeachingDemo />} />
             <Route path='/soundpage' element={<SoundPage />} />
             <Route path='/formvalidate' element={<FormValidate />} />
+            <Route path='/about' element={<About />} />
+            <Route path='/work-demo' element={<WorkDemo />} />
+            <Route path='/it-samples' element={<ItSamples />} />
+            <Route path='/othersample' element={<OtherSample />} />
             <Route path="*" element={<Page404 />} />
           </Route>
         </Routes>
