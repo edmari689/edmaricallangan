@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
       <>
     <nav id="linkNav" ref={navRef}>
-        <ul className="menus">
+        <ul className="menus" onClick={showNavbar}>
         {pageItems.map((menu, index) => {
           const depthLevel = 0;
           return <MenuItems items={menu} key={index} depthLevel={depthLevel}/>;
