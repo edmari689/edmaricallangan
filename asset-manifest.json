@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edmaricallangan/static/css/main.5031a136.css",
-    "main.js": "/edmaricallangan/static/js/main.109d24f3.js",
+    "main.css": "/edmaricallangan/static/css/main.278c37c4.css",
+    "main.js": "/edmaricallangan/static/js/main.56728d1a.js",
     "static/media/sound1.wav": "/edmaricallangan/static/media/sound1.987b3fdf2362f8db0601.wav",
     "static/media/NatureTalk-Preview.jpg": "/edmaricallangan/static/media/NatureTalk-Preview.bad248585b6dd4170297.jpg",
     "static/media/NatureTalks.mp3": "/edmaricallangan/static/media/NatureTalks.d42937ef781cb215eb3b.mp3",
@@ -17,11 +17,11 @@
     "static/media/facebook-icon.png": "/edmaricallangan/static/media/facebook-icon.f25335b463a12545be9b.png",
     "static/media/note-sign.png": "/edmaricallangan/static/media/note-sign.ba111595e19d744439b6.png",
     "index.html": "/edmaricallangan/index.html",
-    "main.5031a136.css.map": "/edmaricallangan/static/css/main.5031a136.css.map",
-    "main.109d24f3.js.map": "/edmaricallangan/static/js/main.109d24f3.js.map"
+    "main.278c37c4.css.map": "/edmaricallangan/static/css/main.278c37c4.css.map",
+    "main.56728d1a.js.map": "/edmaricallangan/static/js/main.56728d1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5031a136.css",
-    "static/js/main.109d24f3.js"
+    "static/css/main.278c37c4.css",
+    "static/js/main.56728d1a.js"
   ]
 }
