@@ -11,9 +11,9 @@ const Navbar = () => {
         navRef.current.classList.toggle("responsive_nav");
     }
     return (
-      <>
-    <nav id="linkNav" ref={navRef}>
-        <ul className="menus" onClick={showNavbar}>
+      <> 
+      <nav id="linkNav" ref={navRef}>
+        <ul className="menus"> 
         {pageItems.map((menu, index) => {
           const depthLevel = 0;
           return <MenuItems items={menu} key={index} depthLevel={depthLevel}/>;
@@ -22,12 +22,19 @@ const Navbar = () => {
         <button className="nav-btn nav-close-btn" onClick={showNavbar}>
             <FaTimes />
         </button>
-    </nav>
-    <button className="nav-btn" onClick={showNavbar}>
-       <FaBars />
-    </button>
-    </>
+      </nav>
+      <button className="nav-btn" onClick={showNavbar}>
+        <FaBars />
+      </button>
+      </>
     );
   };
   
   export default Navbar;
+
+  /*
+<ul className="menus" onClick={showNavbar}> 
+
+Its additional function makes an effect of toggling out of the menu when pressed the dropdown link text.
+This is due to responsive design flaw.
+  */
