@@ -12,6 +12,9 @@ export default function About () {
             <Link to="/aboutsite">
                 About My Site
             </Link>
+            <Link to="/credits">
+                References Credited
+            </Link>
         </>
     );
 }

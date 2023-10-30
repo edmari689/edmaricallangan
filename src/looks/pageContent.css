@@ -28,3 +28,7 @@
   justify-content: center;
   gap: 0.5em;
 }
+
+section.creditContentLook{
+  text-align: left;
+}

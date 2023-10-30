@@ -15,6 +15,10 @@ export const pageItems = [
           title: 'About This Site',
           url: 'aboutsite',
         },
+        {
+          title: 'References Credited',
+          url: 'credits',
+        },
       ],
     },
     {

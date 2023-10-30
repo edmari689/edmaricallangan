@@ -10,6 +10,7 @@ import AboutMe from './pages/AboutMe';
 import AboutSite from './pages/AboutSite'; 
 import TeachingDemo from './pages/TeachingDemo';
 import SoundPage from './pages/SoundPage';
+import Credits from './pages/Credits';
 
 import About from './pages/About';
 import WorkDemo from './pages/Work-Demo';
@@ -39,6 +40,7 @@ function App() {
             <Route path='/work-demo' element={<WorkDemo />} />
             <Route path='/it-samples' element={<ItSamples />} />
             <Route path='/othersample' element={<OtherSample />} />
+            <Route path='/credits' element={<Credits />} />
             <Route path="*" element={<Page404 />} />
           </Route>
         </Routes>
