@@ -1,4 +1,5 @@
 import {useRef, useState } from "react";
+import { Link } from "react-router-dom";
 import emailjs from '@emailjs/browser';
 import '../looks/contactForm.css';
 
@@ -44,7 +45,9 @@ export default function Contact () {
             <p>
                 Feel free to contact me through my contact form or my email address: edmari689@yahoo.com. <br />
                 If you like to comment and help on the codes of my site, please visit to my Github project site: 
-                https://github.com/edmari689
+                <Link to="https://github.com/edmari689/edmaricallangan">
+                    https://github.com/edmari689/edmaricallangan
+                </Link>
             </p>
             <br />
             <h2>Contact Form</h2>
