@@ -2,28 +2,30 @@ import { pageItems } from "../PageItems";
 import MenuItems from "./MenuItems";
 
 import { FaBars, FaTimes} from "react-icons/fa";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 
 const Navbar = () => {
     const navRef = useRef();
 
-    const showNavbar = () =>{
-        navRef.current.classList.toggle("responsive_nav");
-    }
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+    const toggleMobileMenu = () => {
+      setIsMobileMenuOpen(!isMobileMenuOpen);
+    };
     return (
       <> 
-      <nav id="linkNav" ref={navRef}>
+      <nav id="linkNav" ref={navRef} className={isMobileMenuOpen ? "responsive_nav" : ""}>
         <ul className="menus"> 
         {pageItems.map((menu, index) => {
           const depthLevel = 0;
           return <MenuItems items={menu} key={index} depthLevel={depthLevel}/>;
         })}
         </ul>
-        <button className="nav-btn nav-close-btn" onClick={showNavbar}>
+        <button className="nav-btn nav-close-btn" onClick={toggleMobileMenu}>
             <FaTimes />
         </button>
       </nav>
-      <button className="nav-btn" onClick={showNavbar}>
+      <button className="nav-btn" onClick={toggleMobileMenu}>
         <FaBars />
       </button>
       </>
@@ -33,8 +35,8 @@ const Navbar = () => {
   export default Navbar;
 
   /*
-<ul className="menus" onClick={showNavbar}> 
+const showNavbar = () =>{
+        navRef.current.classList.toggle("responsive_nav");
+    }
 
-Its additional function makes an effect of toggling out of the menu when pressed the dropdown link text.
-This is due to responsive design flaw.
   */
